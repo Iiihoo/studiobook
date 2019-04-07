@@ -7,5 +7,6 @@
 Tilaaja rekisteröityy
 Kaksi taulua: asiakkaan perustiedot, tilauksen tiedot:
 Ajanvaraus päiväkohtaisesti, kesto, tarvittavat laitteet, tuen tarve
+
 Sivu, jossa studiotyypit ja ominaisuudet (hard code)
 
